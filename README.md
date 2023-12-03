@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Coding and Hiking
 
-- 🌱 I’m currently learning Rust, Artificial Intelligence, Blockchain, etc.
+- 🌱 I’m currently learning Rust, Blockchain, Artificial Intelligence, etc.
 
 - 💞️ I’m looking to collaborate on Rust projects
 
