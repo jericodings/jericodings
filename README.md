@@ -3,8 +3,6 @@
 
 <br/>  
 
-- 🌱 I’m currently learning **RUST**
-
 - 👀 I’m interested in Coding and Hiking
 
 - 🌱 I’m currently learning Rust, Artificial Intelligence, Blockchain, etc.
