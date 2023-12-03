@@ -1,4 +1,4 @@
-![MasterHead](https://i.gifer.com/SUV4.gif)
+![MasterHead](https://www.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_26195939.htm)
 <h1 align="center">Hi 👋, I'm Jeric</h1>
 <h3 align="center">Full stack developer learner</h3>
 
@@ -9,10 +9,9 @@
 <div align="center"><img src="https://profile-counter.glitch.me/{bl33h}/count.svg" /></div>  
 <br/>
 
-- 🌱 I’m currently learning **RUST**
-
 <img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif'/>
 
+- 🌱 I’m currently learning **RUST**
 - 👀 I’m interested in Coding and Hiking
 - 🌱 I’m currently learning Rust, Artificial Intelligence, Blockchain, etc.
 - 💞️ I’m looking to collaborate on Rust projects
