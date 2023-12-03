@@ -9,4 +9,4 @@
 
 - 💞️ I’m looking to collaborate on Rust projects
 
-- 📫 Email me at salengaclerk@gmail.com or call +63272171590
+- 📫 You can reach me by calling +63272171590
