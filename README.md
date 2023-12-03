@@ -2,8 +2,6 @@
 <h3 align="center">A Lifetime Learner</h3>
 
 <br/>  
-<div align="center"><img src="https://profile-counter.glitch.me/{bl33h}/count.svg" /></div>  
-<br/>
 
 - 🌱 I’m currently learning **RUST**
 
